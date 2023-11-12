@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <a target="_blank" align="center">
-  <img align="right" top="380" height="380" width="380" alt="GIF" src="https://i.pinimg.com/originals/5a/10/a8/5a10a8ddb87313729f2ab391a32aeec4.jpg">
+  <img align="right" top="300" height="300" width="300" alt="GIF" src="https://i.pinimg.com/originals/5a/10/a8/5a10a8ddb87313729f2ab391a32aeec4.jpg">
 </a>
 💡 Studiyng computer engineering<br>
 👨‍💻 I study at the Universidad de Guadalajara.<br>
